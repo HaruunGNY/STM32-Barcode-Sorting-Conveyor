@@ -3,7 +3,6 @@
 Bu proje, lojistik merkezlerinde kullanılan otomatik paket ayrıştırma sistemlerinin STM32 mikrodenetleyicisi ile geliştirilmiş bir prototipidir. Sistem, konveyör üzerindeki ürünleri barkodlarına göre tanımlayarak farklı çıkış kanallarına yönlendirir.
 
 ##  Proje Tanıtım Videosu
-Videonun GitHub'da görünmesi için aşağıya videonu sürükleyip bırakabilirsin:
 
 https://github.com/user-attachments/assets/f7ec03a1-3e39-46a2-bd15-47a9da8ccc61
 

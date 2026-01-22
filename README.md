@@ -45,4 +45,3 @@ Proje **STM32CubeIDE** kullanılarak, **HAL kütüphaneleri** ile geliştirilmi�
 * `IOC File`: Pin konfigürasyonları ve saat ayarları.
 
 ---
-*Bu proje geliştirme aşamasındadır. Katkıda bulunmak için lütfen bir "Issue" açın.*

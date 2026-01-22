@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/f7ec03a1-3e39-46a2-bd15-47a9da8ccc61
 
 ##  Donanım Özellikleri
 * **Motor Sürücü:** **IRFZ44N N-Channel MOSFET** tabanlı özel anahtarlama devresi.
-*       **Neden IRFZ44N?:** Yüksek akım kapasitesi ve düşük iç direnç sayesinde konveyör bandını süren DC motorun ısınmadan, yüksek verimle kontrol edilmesi sağlanmıştır.
+*    **Neden IRFZ44N?:** Yüksek akım kapasitesi ve düşük iç direnç sayesinde konveyör bandını süren DC motorun ısınmadan, yüksek verimle kontrol edilmesi sağlanmıştır.
 * **MCU:** STM32F103C8T6 (ARM Cortex-M3)
 * **Ekran:** 16x2 LCD (I2C Modülü ile)
 * **Sensör:** IR Kızılötesi Sensör (Paket algılama)

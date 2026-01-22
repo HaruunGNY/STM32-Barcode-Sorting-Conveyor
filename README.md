@@ -24,10 +24,11 @@ https://github.com/user-attachments/assets/f7ec03a1-3e39-46a2-bd15-47a9da8ccc61
 1. **Hazırlık:** Sistem açıldığında LCD üzerinde "Konveyor Aktif" mesajı belirir ve DC motor çalışmaya başlar.
 2. **Algılama:** IR sensör bir paket tespit ettiğinde, işlem için konveyör motoru durdurulur.
 3. **Okuma:** UART hattı üzerinden barkod verisi beklenir (`HAL_UART_Receive`).
-4. **Ayrıştırma:** - **A Şehri:** Barkod "8680188130137" ise Servo-2 tetiklenir.
+4. **Ayrıştırma:**
+   - **A Şehri:** Barkod "8680188130137" ise Servo-2 tetiklenir.
    - **B Şehri:** Barkod "8699015750417" ise Servo-1 tetiklenir.
    - **Tanımsız:** Barkod eşleşmezse LCD'de hata uyarısı verilir.
-5. **Döngü
+6. **Döngü
 
 
 :** Yönlendirme bittikten 4 saniye sonra servolar başlangıç konumuna döner ve bant tekrar çalışır.
